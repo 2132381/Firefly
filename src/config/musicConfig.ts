@@ -48,11 +48,11 @@ export const musicPlayerConfig: MusicPlayerConfig = {
 	local: {
 		playlist: [
 			{
-				name: "使一颗心免于哀伤",
-				artist: "知更鸟 / HOYO-MiX / Chevy",
-				url: "/assets/music/使一颗心免于哀伤-哼唱.mp3",
-				cover: "/assets/music/cover/109951169585655912.webp",
-				lrc: "",
+				name: "想念你想我",
+				artist: "Eric周兴哲",
+				url: "https://yuy.cn-nb1.rains3.com/%E6%83%B3%E5%BF%B5%E4%BD%A0%E6%83%B3%E6%88%91.flac",
+				cover: "https://yuy.cn-nb1.rains3.com/109951170150945491.jpg",
+				lrc: "https://yuy.cn-nb1.rains3.com/%E6%83%B3%E5%BF%B5%E4%BD%A0%E6%83%B3%E6%88%91%20-%20%E5%91%A8%E5%85%B4%E5%93%B2.lrc",
 			},
 		],
 	},
