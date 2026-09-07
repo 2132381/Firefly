@@ -48,11 +48,11 @@ export const musicPlayerConfig: MusicPlayerConfig = {
 	local: {
 		playlist: [
 			{
-				name: "想念你想我",
-				artist: "Eric周兴哲",
-				url: "https://yuy.cn-nb1.rains3.com/%E6%83%B3%E5%BF%B5%E4%BD%A0%E6%83%B3%E6%88%91.flac",
-				cover: "https://yuy.cn-nb1.rains3.com/109951170150945491.jpg",
-				lrc: "https://yuy.cn-nb1.rains3.com/%E6%83%B3%E5%BF%B5%E4%BD%A0%E6%83%B3%E6%88%91%20-%20%E5%91%A8%E5%85%B4%E5%93%B2.lrc",
+				name: "她",
+				artist: "刘宇宁",
+				url: "https://yuy.cn-nb1.rains3.com/%E5%88%98%E5%AE%87%E5%AE%81%20-%20%E5%A5%B9.flac",
+				cover: "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cd/f6/2e/cdf62ea2-5b30-8b59-f51e-bafe849cdf6e/4896043185721.jpg/316x316cc.webp",
+				lrc: "",
 			},
 		],
 	},
