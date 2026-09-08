@@ -103,6 +103,13 @@ export const musicPlayerConfig: MusicPlayerConfig = {
 				cover: "https://p1.music.126.net/gEia-o05FSas8uJos54Sug==/109951163456726954.jpg?param=130y130",
 				lrc: "",
 			},
+			{
+				name: "亲爱的陌生人",
+				artist: "郑沐晴",
+				url: "https://yuy.cn-nb1.rains3.com/%E9%83%91%E6%B2%90%E6%99%B4%20-%20%E4%BA%B2%E7%88%B1%E7%9A%84%E9%99%8C%E7%94%9F%E4%BA%BA.flac",
+				cover: "https://yuy.cn-nb1.rains3.com/109951170300412484.jpg",
+				lrc: "",
+			},
 		],
 	},
 };
