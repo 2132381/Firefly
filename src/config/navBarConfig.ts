@@ -108,6 +108,26 @@ const getDynamicNavBarConfig = (): NavBarConfig => {
 				icon: "fa7-brands:qq",
 			},
 		],
+		
+		links.push({
+		name: "明星",
+		url: "#",
+		icon: "material-symbols:group",
+		// 子菜单
+		children: [
+			{
+				name: "GitHub",
+				url: "https://github.com/2132381/Firefly",
+				external: true,
+				icon: "fa7-brands:github",
+			},
+			{
+				name: "QQ交流群",
+				url: "https://qm.qq.com/q/4udvyOByWI",
+				external: true,
+				icon: "fa7-brands:qq",
+			},
+		],
 	});
 
 	// 文档链接
