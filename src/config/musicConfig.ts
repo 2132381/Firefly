@@ -68,6 +68,13 @@ export const musicPlayerConfig: MusicPlayerConfig = {
 				cover: "https://yuy.cn-nb1.rains3.com/109951170300412484.jpg",
 				lrc: "",
 			},
+			{
+				name: "此刻",
+				artist: "袁娅维TIA RAY",
+				url: "https://yuy.cn-nb1.rains3.com/%E8%A2%81%E5%A8%85%E7%BB%B4TIA%20RAY%20-%20%E6%AD%A4%E5%88%BB.flac",
+				cover: "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3c/7b/87/3c7b877a-25d4-5a6c-6b50-7e9187251e10/4896043209014.jpg/300x300bb.webp",
+				lrc: "",
+			},
 		],
 	},
 };
