@@ -61,6 +61,13 @@ export const musicPlayerConfig: MusicPlayerConfig = {
 				cover: "https://yuy.cn-nb1.rains3.com/109951170150945491.jpg",
 				lrc: "",
 			},
+			{
+				name: "白日断夜",
+				artist: "黄景瑜",
+				url: "https://yuy.cn-nb1.rains3.com/%E7%99%BD%E6%97%A5%E6%96%AD%E5%A4%9C.flac",
+				cover: "https://yuy.cn-nb1.rains3.com/109951170300412484.jpg",
+				lrc: "",
+			},
 		],
 	},
 };
