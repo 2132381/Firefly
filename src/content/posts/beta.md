@@ -1,6 +1,7 @@
 ---
 title: 测试-私密文章
 published: 2025-01-01
+pinned: true
 password: "123456"
 passwordHint: "我的生日"
 ---
