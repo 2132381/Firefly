@@ -78,12 +78,12 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 			titleSize: "4.5rem",
 			// 主页横幅副标题
 			subtitle: [
-				"In Reddened Chrysalis, I Once Rest",
-				"From Shattered Sky, I Free Fall",
-				"Amidst Silenced Stars, I Deep Sleep",
-				"Upon Lighted Fyrefly, I Soon Gaze",
-				"From Undreamt Night, I Thence Shine",
-				"In Finalized Morrow, I Full Bloom",
+				"爱情并不是人生的全部。就算没有爱情，人也应当要把自己的日子过得很好。",
+				"有人说心是窄门，一旦受挫，就会留下一道卡人的裂痕。真心被轻视比皮肉受伤更难堪，心底的那根软刺，一碰就羞愧，一想就寒心。",
+				"有些告别，不是一时冲动，是无数个失望的瞬间攒出来的决定。",
+				"繁华似锦觅安宁，淡云流水渡此生。",
+				"爱不是互相折磨，是两个人一起拔掉心里的刺。",
+				"有些告别从不是不爱，而是被秘密与愧疚逼出来的分开。",
 			],
 			// 主页横幅副标题字体大小
 			subtitleSize: "1.5rem",
