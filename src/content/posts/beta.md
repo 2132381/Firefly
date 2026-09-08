@@ -3,6 +3,7 @@ title: 欢迎来到我的博客
 published: 2025-01-01
 pinned: true
 image: https://www.mzyft.top/data/uploads/avatar_1787035140.jpg
+seriesOrder: 4
 ---
 
 ## 欢迎来到我的博客
