@@ -2,19 +2,22 @@
 title: 测试-私密文章
 published: 2025-01-01
 pinned: true
-password: "123456"
-passwordHint: "我的生日"
 ---
 
-## 成功解锁了这篇文章！
+## 欢迎来到我的博客
 
-如果你能看到这段内容，说明密码输入正确，文章已成功解密。
+你好！我是 mujiyu 。
 
-### 功能说明
+## 🛠️ 关于本站
 
-- **构建时加密**：文章内容在构建时使用 AES-256-GCM 算法加密，页面源码中不包含任何明文。
-- **客户端解密**：访客输入正确密码后，浏览器通过 Web Crypto API 在本地完成解密。
-- **会话缓存**：同一浏览器会话内，密码会被缓存到 `sessionStorage`，刷新页面无需重复输入。
-- **关闭即失效**：关闭浏览器后缓存清除，再次访问需要重新输入密码。
+这个网站使用 Astro 框架构建，采用了 Firefly 模板，Firefly 是基于 Fuwari 的二次开发。
 
-> 密码为 `123456`，仅供测试使用。
+Firefly 是一款基于 Astro 框架和 Fuwari 模板开发的清新美观且现代化个人博客主题模板，专为技术爱好者和内容创作者设计。该主题融合了现代 Web 技术栈，提供了丰富的功能模块和高度可定制的界面，让您能够轻松打造出专业且美观的个人博客网站。
+
+🖥️在线预览： Firefly - Demo site
+
+📝Firefly使用文档： https://docs-firefly.cuteleaf.cn
+
+⭐Firefly开源地址：https://github.com/CuteLeaf/Firefly
+
+⭐Fuwari开源地址：https://github.com/saicaca/fuwari
