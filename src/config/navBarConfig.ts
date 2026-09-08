@@ -65,8 +65,8 @@ const getDynamicNavBarConfig = (): NavBarConfig => {
 			// 相册
 			LinkPresets.Gallery,
 
-			// 书签导航
-			LinkPresets.Booknav,
+			// 打赏
+			LinkPresets.Sponsor,
 
 			// 哔哩哔哩追番
 			LinkPresets.Bilibili,
@@ -80,8 +80,6 @@ const getDynamicNavBarConfig = (): NavBarConfig => {
 		url: "#",
 		icon: "material-symbols:info",
 		children: [
-			// 打赏
-			LinkPresets.Sponsor,
 
 			// 关于页面
 			LinkPresets.About,
