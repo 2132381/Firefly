@@ -101,7 +101,7 @@ const getDynamicNavBarConfig = (): NavBarConfig => {
 			},
 			{
 				name: "冬至",
-				url: "https://qy.net/f5IYcdH-90?vfrm=pcw_album_auto",
+				url: "https://qy.net/9cIXgkj-cc?vfrm=pcw_album_auto",
 				external: true,
 				icon: "material-symbols:favorite",
 			},
