@@ -105,6 +105,18 @@ const getDynamicNavBarConfig = (): NavBarConfig => {
 				external: true,
 				icon: "material-symbols:favorite",
 			},
+			{
+				name: "香蜜沉沉烬如霜",
+				url: "https://qy.net/f0IWJ5W-32?vfrm=pcw_album_auto",
+				external: true,
+				icon: "material-symbols:favorite",
+			},
+			{
+				name: "女心理师",
+				url: "https://v.youku.com/v_show/id_XNTIwMDg0Nzc5Mg==.html?spm=a2hkm.8166622.PhoneSokuProgram_1.dplaybutton&s=efbabead49894ce7ae07&pv_spm=a2hkm.8166622.PhoneSokuProgram_1.dplaybutton",
+				external: true,
+				icon: "material-symbols:favorite",
+			},
 		],
 	});
 
