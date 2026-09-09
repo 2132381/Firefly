@@ -117,6 +117,12 @@ const getDynamicNavBarConfig = (): NavBarConfig => {
 				external: true,
 				icon: "material-symbols:favorite",
 			},
+			{
+				name: "再见十八班",
+				url: "https://qy.net/13IW3bS-3d?vfrm=pcw_album_auto",
+				external: true,
+				icon: "material-symbols:favorite",
+			},
 		],
 	});
 
