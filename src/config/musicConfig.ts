@@ -117,6 +117,13 @@ export const musicPlayerConfig: MusicPlayerConfig = {
 				cover: "https://p1.music.126.net/gEia-o05FSas8uJos54Sug==/109951163456726954.jpg?param=130y130",
 				lrc: "",
 			},
+			{
+				name: "胜者",
+				artist: "梵胜",
+				url: "https://yuy.cn-nb1.rains3.com/%E6%A2%B5%E8%83%9C%20-%20%E8%83%9C%E8%80%85.flac",
+				cover: "https://yuy.cn-nb1.rains3.com/OSK.jpg",
+				lrc: "",
+			},
 		],
 	},
 };
