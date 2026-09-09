@@ -110,6 +110,13 @@ export const musicPlayerConfig: MusicPlayerConfig = {
 				cover: "https://yuy.cn-nb1.rains3.com/109951170300412484.jpg",
 				lrc: "",
 			},
+			{
+				name: "左手指月",
+				artist: "萨顶顶",
+				url: "https://yuy.cn-nb1.rains3.com/%E8%90%A8%E9%A1%B6%E9%A1%B6%20-%20%E5%B7%A6%E6%89%8B%E6%8C%87%E6%9C%88.flac",
+				cover: "https://p1.music.126.net/gEia-o05FSas8uJos54Sug==/109951163456726954.jpg?param=130y130",
+				lrc: "",
+			},
 		],
 	},
 };
