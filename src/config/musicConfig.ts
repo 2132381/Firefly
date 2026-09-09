@@ -55,6 +55,13 @@ export const musicPlayerConfig: MusicPlayerConfig = {
 				lrc: "",
 			},
 			{
+				name: "这一刻",
+				artist: "段奥娟",
+				url: "https://yuy.cn-nb1.rains3.com/%E6%AE%B5%E5%A5%A5%E5%A8%9F%20-%20%E8%BF%99%E4%B8%80%E5%88%BB.flac",
+				cover: "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/01/31/06/013106ad-88ed-f8d8-5a7a-064928f4d786/4896043192415.jpg/316x316bb.webp",
+				lrc: "",
+			},
+			{
 				name: "想念你想我",
 				artist: "Eric周兴哲",
 				url: "https://yuy.cn-nb1.rains3.com/%E6%83%B3%E5%BF%B5%E4%BD%A0%E6%83%B3%E6%88%91.flac",
