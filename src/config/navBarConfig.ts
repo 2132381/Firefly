@@ -88,20 +88,20 @@ const getDynamicNavBarConfig = (): NavBarConfig => {
 
 	// 自定义导航栏链接
 	links.push({
-		name: "链接",
+		name: "电视剧",
 		url: "#",
 		icon: "material-symbols:link",
 		// 子菜单
 		children: [
 			{
-				name: "GitHub",
-				url: "https://github.com/2132381/Firefly",
+				name: "早春晴朗",
+				url: "https://v.youku.com/v_show/id_XNjU0NTk3OTUwMA==.html?spm=a2hkl.14919748_WEBHOME_HOME.drawer1.d_zj1_1&s=ffefaad54c434973b4d6&scm=20140719.rcmd.52803.show_ffefaad54c434973b4d6&alginfo=-1reqId-2d7380555.faf7.4ed5.89e8.4a41e8df8b2b_1788962242935-1sceneId-247047-1abId-2501295-1seqId-21a2KGtp0C16nd4CI&pv_scm=20140719.rcmd.52803.show_ffefaad54c434973b4d6&pv_spm=a2hkl.14919748_WEBHOME_HOME.drawer1.d_zj1_1",
 				external: true,
 				icon: "fa7-brands:github",
 			},
 			{
-				name: "QQ交流群",
-				url: "https://qm.qq.com/q/4udvyOByWI",
+				name: "冬至",
+				url: "https://qy.net/f5IYcdH-90?vfrm=pcw_album_auto",
 				external: true,
 				icon: "fa7-brands:qq",
 			},
