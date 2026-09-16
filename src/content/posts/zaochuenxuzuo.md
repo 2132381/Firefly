@@ -1,6 +1,6 @@
 ---
 title: 《早春晴朗》原班主创续作——《盛夏晴朗》
-published: 2026-09-15
+published: 2026-09-16
 pinned: false
 image: ./images/2.jpg
 seriesOrder: 4
