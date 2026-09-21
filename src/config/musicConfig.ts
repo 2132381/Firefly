@@ -55,6 +55,13 @@ export const musicPlayerConfig: MusicPlayerConfig = {
 				lrc: "",
 			},
 			{
+				name: "落空",
+				artist: "未必",
+				url: "https://yuy.cn-nb1.rains3.com/%E6%9C%AA%E5%BF%85%20-%20%E8%90%BD%E7%A9%BA.flac",
+				cover: "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3c/7b/87/3c7b877a-25d4-5a6c-6b50-7e9187251e10/4896043209014.jpg/316x316bb.webp",
+				lrc: "",
+			},
+			{
 				name: "这一刻",
 				artist: "段奥娟",
 				url: "https://yuy.cn-nb1.rains3.com/%E6%AE%B5%E5%A5%A5%E5%A8%9F%20-%20%E8%BF%99%E4%B8%80%E5%88%BB.flac",
