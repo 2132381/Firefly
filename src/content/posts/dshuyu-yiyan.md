@@ -7,4 +7,4 @@ image: https://www.mzyft.vip/data/uploads/articles/img_20261004_015149_a45c5230.
 seriesOrder: 4
 ---
 
-![请前往主站观看](https://www.mzyft.vip/article.php?slug=dshuyu-yiyan)
+[请前往主站观看](https://www.mzyft.vip/article.php?slug=dshuyu-yiyan)
