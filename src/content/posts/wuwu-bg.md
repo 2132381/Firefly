@@ -2,7 +2,7 @@
 title: 【讣告】致那个为方块世界上色的人
 published: 2026-09-11
 pinned: true
-image: https://www.mzyft.top/data/uploads/articles/img_20260824_223235_60759bee.jpg
+image: https://www.mzyft.vip/data/uploads/articles/img_20260824_223235_60759bee.jpg
 seriesOrder: 4
 ---
 
